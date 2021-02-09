@@ -1,0 +1,18 @@
+.card{
+    margin-top: 2%;
+margin-left: 5%;
+width: 35%;
+padding-top: 2%;
+padding-right: 10px;
+padding-left: 10px;
+display: flex;
+flex-direction: column;
+padding-bottom: 15px;
+}
+.text{
+    font-weight: bold;
+}
+.submitButton{
+    margin-top: 15px;
+    margin-bottom: 6%;
+}
